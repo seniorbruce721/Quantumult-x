@@ -170,9 +170,7 @@ url-latency-benchmark=美国节点, server-tag-regex=(?=.*((?i)🇺🇸|美|美�
 #**************************************#
 # 添加远程节点↓↓↓↓↓↓↓↓↓
 [server_remote]
-https://sub-xsus.com/api/v1/client/subscribe?token=da9882342428dbe9d4fb2a3f39a336fc, tag=xsux, update-interval=172800, opt-parser=false, enabled=true
-https://xn--dqrs61a.xn--nyq8xnau43mp3cg06appat33dzol.xn--fiqs8s/link/8AfySSWoF3jI79NTVCqs?surge=1&lang=zh, tag=magic, update-interval=172800, opt-parser=true, enabled=true
-https://v1.dogapi.yachts/api/v1/client/subscribe?token=07f239c3100e9723a306d71f43797d02, tag=Dog, update-interval=172800, opt-parser=true, enabled=true
+
 
 #网易云节点
 
